@@ -1,11 +1,9 @@
 dfddf
 rdfth
 cfbcfb
-<<<<<<< HEAD
 vfvdxvdxv
 =======
 hlo...
->>>>>>> 463828df58c2d2609db71d54676fdc405fc7308f
 harsh1
 harsh2
 harsh3
@@ -13,4 +11,6 @@ harsh4
 harsh5
 harsh6
 hello i am japnoor
-harsh111111111
+
+g-10
+
